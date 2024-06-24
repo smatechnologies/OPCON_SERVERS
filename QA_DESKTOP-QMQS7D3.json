@@ -1,8 +1,8 @@
 {
   "name":"QA_DESKTOP-QMQS7D3",
-  "address":"DESKTOP-QMQS7D3",
-  "port":9011,
+  "address":"DESKTOP-QMQS7D3:443",
   "user":"ocadm",
   "password":"opconxps",
-  "systemPrefix":"QA"
+  "password":"opconxps",
+  "token" : "d62db7db-6098-4a08-8abd-2923a3418ebd"
 }
